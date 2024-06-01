@@ -1,0 +1,48 @@
+{
+    "intents":[ 
+
+    {
+        "tag":"greeting",
+        "patterns":["hello","hii","hie","hey","wake up","jarvis"
+
+
+        ],
+        "responses":["Hello Sir,","how are you, ", "Always for you ","hello",
+        "HELLO","Here's you Assistant.","i will wait for you "
+
+
+        ]
+        
+    },    {
+        "tag":"bye",
+        "patterns":["bye","by","good bye","see you later ","sooja","sleep","exit"
+
+
+
+        ],
+        "responses":["Bye Sir,","I am Going, ", "i will wait for you ","ok sir bye",
+        "It will be nice to meet you again ","see you Later .","going for vacation"
+
+
+        ]
+        
+    },    {
+        "tag":"health",
+        "patterns":["how are you ","are you fine","are you good"," are you alright"
+
+
+        ],
+        "responses":["Fine,","good ", "good as fuck","cool",
+        "like you ","as always"
+
+
+        ]
+        
+    }
+
+
+
+    ]
+}
+
+
